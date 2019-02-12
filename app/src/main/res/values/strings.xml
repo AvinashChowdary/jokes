@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="edt_hint">Enter Text</string>
+    <string name="submit">Submit</string>
+    <string name="get_joke">Get Joke</string>
+    <string name="loading_joke">Loading Joke</string>
+    <string name="failed_to_get_joke">Failed to get joke. Please try again.</string>
+    <string name="error_getting_joke">There was an error getting joke. Please try again.</string>
+    <string name="enter_joke_id">Enter Joke ID</string>
+    <string name="enter_valid_id">Please enter a valid ID for the joke</string>
+</resources>
